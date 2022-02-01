@@ -1,0 +1,17 @@
+p{
+  color: red;  
+}
+
+.text {
+   color: blue; 
+}
+
+#1{color: burlywood;
+
+}
+
+.paragraph > p {
+
+
+  color: blueviolet;
+}
